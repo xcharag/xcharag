@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oscar aguilar soliz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar aguilar soliz" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/oscar aguilar soliz](https://www.linkedin.com/in/oscar-aguilar-soliz-2320b5140)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar aguilar soliz" height="30" width="40" /></a>
 <a href="https://fb.com/oscar denes aguilar soliz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oscar denes aguilar soliz" height="30" width="40" /></a>
 <a href="https://instagram.com/osaguilar_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="osaguilar_20" height="30" width="40" /></a>
 <a href="https://discord.gg/xchar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xchar" height="30" width="40" /></a>
