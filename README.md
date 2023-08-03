@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oscar</h1>
+<h1 align="center">Hi 👋, I'm Oscar Aguilar </h1>
 <h3 align="center">A passionate full stack developer from Bolivia</h3>
 
 - 🔭 I’m currently working on **my Personal Projects**
