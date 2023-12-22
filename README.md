@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **my Personal Projects**
 
-- 🌱 I’m currently learning **Framework and System Engineer**
+- 🌱 I’m currently learning **Web Development and System Engineer**
 
 - 👯 I’m looking to collaborate on **Projects for Enterprises**
 
-- 🤝 I’m looking for help with **HTML and CSS**
+- 🤝 I’m looking for help with **Javascript**
 
 - 💬 Ask me about **Python and C#**
 
-- 📫 How to reach me **oscaraguilarfut@gmail.com**
+- 📫 How to reach me **odaguilarsoliz@gmail.com**
 
-- ⚡ Fun fact **I normally have ; errors and discover them 20 minutes later**
+- ⚡ Fun fact **I normally have ; errors and discover them 60 minutes later**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
