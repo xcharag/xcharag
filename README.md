@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar Aguilar </h1>
 <h3 align="center">A passionate full stack developer from Bolivia</h3>
 
-- 🔭 I’m currently working on **Conecta Redes y Servicios**
+- 🔭 I’m currently working as a **Freelancer**
 
 - 🌱 I’m currently learning **Web Development and System Engineer**
 
