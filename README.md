@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working as a **Freelancer**
 
-- 🌱 I’m currently learning **Web Development and System Engineer**
+- 🌱 I’m currently learning **Cloud Computing :O**
 
-- 👯 I’m looking to collaborate on **Projects for Enterprises**
+- 👯 I’m looking to collaborate on **Any kind of coding projects**
 
-- 🤝 I’m looking for help with **Javascript**
+- 🤝 I’m looking for help with **C#**
 
-- 💬 Ask me about **Python and C#**
+- 💬 Ask me about **Java and JavaScript/HTML/CSS**
 
 - 📫 How to reach me **odaguilarsoliz@gmail.com**
 
