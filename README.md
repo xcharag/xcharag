@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/oscar-aguilar-soliz-2320b5140" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar-aguilar-soliz-2320b5140" height="30" width="40" /></a>
 <a href="https://fb.com/xchar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xchar2" height="30" width="40" /></a>
-<a href="https://instagram.com/os_aguilar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="os_aguilar20" height="30" width="40" /></a>
+<a href="https://instagram.com/os.aguilars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="os_aguilar20" height="30" width="40" /></a>
 <a href="https://discord.gg/xchar2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xchar2" height="30" width="40" /></a>
 </p>
 
