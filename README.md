@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar Aguilar (Known as xchar)</h1>
 <h3 align="center">A passionate full stack developer (mainly back)</h3>
 
-- 🔭 I’m currently working as a **freelancer**
+- 🔭 I’m currently working as a **Junior Developer** at Microcom-TI
 
 - 🌱 I’m currently learning **C# and TypeScript**
 
