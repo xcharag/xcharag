@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Oscar Aguilar (Known as xchar)</h1>
-<h3 align="center">A passionate full stack developer (mainly back)</h3>
+<h3 align="center">A full stack developer (C#, Java, React, Flutter)</h3>
 
-- 🔭 I’m currently working as a **Junior Developer** at Microcom-TI
+- 🔭 I’m currently working as a **Mid-Junior Developer** at Microcom-TI
 
-- 🌱 I’m currently learning **C# and TypeScript**
+- 🌱 I’m currently learning **.NET MAUI & Angular**
 
-- 🤝 I’m looking for help with **C# (.NET)**
+- 🤝 I’m looking for help with **.NET MAUI**
 
 - 📝 I regularly make streams on twitch [https://www.twitch.tv/xchar2](https://www.twitch.tv/xchar2)
 
-- 💬 Ask me about **Java, React or Python**
+- 💬 Ask me about **C# .NET**
 
 - 📫 How to reach me **odaguilarsoliz@gmail.com**
 
